@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LabExercise4</string>
+    <string name="textviewbirthdate">Date of Birth: </string>
+    <string name="textviewage">Age: </string>
+    <string name="textviewmin">Min. Basic Saving: </string>
+    <string name="investment">Allowable Investment: </string>
+</resources>
